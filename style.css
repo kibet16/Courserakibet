@@ -1,0 +1,47 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: system-ui,
+    'Open Sans', sans-serif;
+}
+.header-nav{
+    background-color: #f6b319;
+    border-radius: 8px;
+    border: 0;
+    height: 110px;
+}
+#logo-image{
+    background-image: url(images/bistroo.jfikf);
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    
+
+}
+.navbar-brand{
+    margin-left: 112px;
+    margin-top: -113px;
+
+}
+.navbar-brand h1 {
+    font-family: monospace;
+    font-size:1.5em;
+    color: #5573ce;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #222;
+    text-decoration: none;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+text-decoration: none;
+}
+.navbar-brand p{
+    color: #000;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: px;
+}
+.navbar-brand p span{
+    vertical-align: middle;
+}
